@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2O7TcHt6kH2udoZ/G7QVvL+pNJ63NIS6r/8d1FP8I2yERrW5k0H8azNZuDihSKHwKAVbYSOtl0cbTTBJQgHc4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\magnus.gabell\\Source\\Repos\\PascalXMLStructure\\PascalXMLStructure\\PascalXMLStructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\magnus.gabell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\magnus.gabell\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\bin\Debug\net6.0\PascalXMLStructure.deps.json
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\bin\Debug\net6.0\PascalXMLStructure.dll
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\bin\Debug\net6.0\ref\PascalXMLStructure.dll
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\bin\Debug\net6.0\PascalXMLStructure.pdb
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Debug\net6.0\PascalXMLStructure.csproj.AssemblyReference.cache
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Debug\net6.0\PascalXMLStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Debug\net6.0\PascalXMLStructure.AssemblyInfoInputs.cache
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Debug\net6.0\PascalXMLStructure.AssemblyInfo.cs
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Debug\net6.0\PascalXMLStructure.csproj.CoreCompileInputs.cache
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Debug\net6.0\PascalXMLStructure.dll
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Debug\net6.0\ref\PascalXMLStructure.dll
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Debug\net6.0\PascalXMLStructure.pdb

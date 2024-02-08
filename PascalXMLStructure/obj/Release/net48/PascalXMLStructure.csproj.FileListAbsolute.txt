@@ -1,0 +1,11 @@
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\bin\Release\net48\license.txt
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\bin\Release\net48\PascalXMLStructure.dll
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\bin\Release\net48\PascalXMLStructure.pdb
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Release\net48\PascalXMLStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Release\net48\PascalXMLStructure.AssemblyInfoInputs.cache
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Release\net48\PascalXMLStructure.AssemblyInfo.cs
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Release\net48\PascalXMLStructure.csproj.CoreCompileInputs.cache
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Release\net48\PascalXMLStructure.dll
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Release\net48\PascalXMLStructure.pdb
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\bin\Release\net48\README.md
+C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\obj\Release\net48\PascalXMLStructure.csproj.AssemblyReference.cache

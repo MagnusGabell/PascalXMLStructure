@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PascalXMLStructure</id>
+    <version>2.3.2</version>
+    <authors>PascalXMLStructure</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>Library structure to Pascal VOC</description>
+    <copyright>Copyright belongs to the author.</copyright>
+    <tags>pascal voc xml structure</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.8" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Net.Http" targetFramework=".NETFramework4.8" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\bin\Release\net48\PascalXMLStructure.dll" target="lib\net48\PascalXMLStructure.dll" />
+    <file src="C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\bin\Release\netstandard2.0\PascalXMLStructure.dll" target="lib\netstandard2.0\PascalXMLStructure.dll" />
+    <file src="C:\Development\SupportTools\PascalXMLStructure\PascalXMLStructure\bin\Release\net48\README.md" target="\README.md" />
+  </files>
+</package>
